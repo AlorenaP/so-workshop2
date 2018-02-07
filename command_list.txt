@@ -1,0 +1,12 @@
+    1  cd /tmp/so-workshop2/
+    2  ls
+    3  git remote add personal https://github.com/AlorenaP/so-workshop2.git
+    4  cat .git/config 
+    5  tig
+    6  git statuas
+    7  git status
+    8  git branch
+    9  git push personal LPerez/workshop2
+   10  ls
+   11  his
+   12  history >command_list.txt
